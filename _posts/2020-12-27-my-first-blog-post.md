@@ -1,3 +1,9 @@
+---
+title: "My random thoughts"
+date: 2020-12-28
+---
+
+
 #I was tasked to make a quick draft
 
 ###So i'm writing my thoughts:
